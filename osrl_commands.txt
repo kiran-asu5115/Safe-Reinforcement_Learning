@@ -1,0 +1,7 @@
+python examples/train/train_bcql.py --task OfflineHopperVelocityGymnasium-v1
+python examples/train/train_bcql.py --task OfflineCarCircle1Gymnasium-v0
+python examples/train/train_bcql.py --task OfflinePointGoal1Gymnasium-v1"
+
+python examples/train/train_cpq.py --task OfflineHopperVelocityGymnasium-v1
+python examples/train/train_cpq.py --task OfflineCarCircle1Gymnasium-v0
+python examples/train/train_cpq.py --task OfflinePointGoal1Gymnasium-v1"
